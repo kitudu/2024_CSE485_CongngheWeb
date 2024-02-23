@@ -1,2 +1,3 @@
 <?php
-echo "Hahaha";
+echo "Hihihi"
+echo "Hehhe";
